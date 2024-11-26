@@ -1,10 +1,10 @@
 PADAVAN_REPO="https://github.com/Svarkovsky/Padavan-ng_MI.git"
 PADAVAN_BRANCH="master"
 PADAVAN_COMMIT="HEAD"
-PADAVAN_TOOLCHAIN_URL="https://github.com/api/v4/projects/Svarkovsky%2FPadavan-ng_MI/packages/generic/toolchain/latest/toolchain.tzst"
+PADAVAN_TOOLCHAIN_URL="https://github.com/api/v4/projects/Svarkovsky/Padavan-ng_MI/tree/master/toolchain/latest/toolchain.tzst"
 
-PADAVAN_THEMES_REPO="https://github.com/Svarkovsky/padavan-themes.git"
-#PADAVAN_THEMES_REPO="https://github.com/Svarkovsky/padavan-themes-lite.git"
+PADAVAN_THEMES_REPO="https://github.com/Svarkovsky/padavan-builder-workflow/padavan-themes.git"
+#PADAVAN_THEMES_REPO="https://github.com/Svarkovsky/padavan-builder-workflow/padavan-themes-lite.git"
 PADAVAN_THEMES_BRANCH="main"
 
 PADAVAN_THEMES=(
